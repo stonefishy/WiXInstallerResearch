@@ -1,0 +1,9 @@
+obj\Debug\Product.wixobj
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\NetJapanAppInstaller\bin\Debug\NetJapanApp_Setup.msi
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\NetJapanAppInstaller\bin\Debug\NetJapanApp_Setup.wixpdb
+obj\Debug\NetJapanAppInstaller.wixproj.BindContentsFileListnull.txt
+obj\Debug\NetJapanAppInstaller.wixproj.BindOutputsFileListnull.txt
+obj\Debug\NetJapanAppInstaller.wixproj.BindBuiltOutputsFileListnull.txt
+obj\Debug\ProgressDialog.wixobj
+obj\Debug\SetupDialog.wixobj
+obj\Debug\UserRegDialog.wixobj

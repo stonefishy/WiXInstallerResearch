@@ -1,0 +1,7 @@
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\RegistrationCustomAction\bin\Debug\RegistrationCustomAction.dll
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\RegistrationCustomAction\bin\Debug\Microsoft.Deployment.WindowsInstaller.dll
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\RegistrationCustomAction\bin\Debug\Microsoft.Deployment.WindowsInstaller.xml
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\RegistrationCustomAction\obj\x86\Debug\RegistrationCustomAction.dll
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\RegistrationCustomAction\obj\x86\Debug\RegistrationCustomAction.pdb
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\RegistrationCustomAction\bin\Debug\RegistrationCustomAction.CA.dll
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\RegistrationCustomAction\bin\Debug\RegistrationCustomAction.pdb

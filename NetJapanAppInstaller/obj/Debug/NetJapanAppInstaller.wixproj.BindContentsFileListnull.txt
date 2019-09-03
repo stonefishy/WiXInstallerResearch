@@ -1,0 +1,2 @@
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\NetJapanApp\bin\Debug\NetJapanApp.exe
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\NetJapanApp\bin\Debug\NetJapanApp.exe.config

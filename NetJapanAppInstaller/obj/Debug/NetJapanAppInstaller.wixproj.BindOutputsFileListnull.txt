@@ -1,0 +1,2 @@
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\NetJapanAppInstaller\bin\Debug\NetJapanApp_Setup.msi
+E:\Andrew\workspace\tutorial\WiXInstallerResearch\NetJapanAppInstaller\bin\Debug\NetJapanApp_Setup.wixpdb
